@@ -17,6 +17,3 @@ A Python-based solution that analyzes quiz performance to provide personalized r
 ## Insights
 - Visualizations for performance analysis.
 - Recommendations for improvement.
-
-## Demonstration
-Include a video link here.
